@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Prerequisite
 ------------------------------------------------
 ### zip install
@@ -35,6 +34,3 @@ $ java -jar clarity_scan_integration.jar --protocol http --address clarity.osbc.
 --password: user password
 --targetpath: Full path including source code to be analyzed in FossID server  
 (optional)--excludepath: Explicitly exclude the specified files. Please, refer to the `-x` or `--exclude` parameter on the `https://linux.die.net/man/1/zip` page
-=======
-# clarity_scan_integration
->>>>>>> branch 'main' of https://github.com/byunghoon82/clarity_scan_integration.git

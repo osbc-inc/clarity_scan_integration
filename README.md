@@ -28,9 +28,9 @@ e.g)
 $ java -jar clarity_scan_integration.jar --protocol http --address clarity.osbc.co.kr --email user@osbc.co.kr --password userpassword --project project_name --version version_name --targetpath /set/a/target_path --filename filename_to_be.zip --excludepath /exclude/path1/*,/exclude/path2/*,*.txt
 ```
 
---protocol: Clarity web interface protocol              
---address: Clarity address
---email: user email
---password: user password
+--protocol: Clarity web interface protocol          
+--address: Clarity address  
+--email: user email  
+--password: user password  
 --targetpath: Full path including source code to be analyzed in FossID server  
 (optional)--excludepath: Explicitly exclude the specified files. Please, refer to the `-x` or `--exclude` parameter on the `https://linux.die.net/man/1/zip` page
